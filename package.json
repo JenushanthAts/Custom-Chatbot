@@ -1,0 +1,25 @@
+{
+  "name": "chatbot-app",
+  "version": "1.0.0",
+  "description": "chatbot-app is being sponsored by the following tool <br />\r Please help to support us by taking a look and signing up to a free trial\r <a href=\"https://tracking.gitads.io/?repo=chatbot-app\"><img src=\"https://images.gitads.io/chatbot-app\" alt=\"GitAds\"/></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaewonhimnae/chatbot-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaewonhimnae/chatbot-app/issues"
+  },
+  "homepage": "https://github.com/jaewonhimnae/chatbot-app#readme",
+  "dependencies": {
+    "actions-on-google": "^3.0.0",
+    "dialogflow": "^1.2.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.14"
+  }
+}
